@@ -3,4 +3,5 @@ fun main(args: Array<String>) {
     val exerciseSolve = 0
     println(exercise)
     println(exerciseSolve)
+    // Too Easy Exercise I don't want to cuntuine
 }
